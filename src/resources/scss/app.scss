@@ -1,0 +1,20 @@
+@import 'variable';
+
+.test{
+    font-size:2rem;
+}
+h1{
+    color: $red-color;
+}
+
+h2{
+    color:#ccc;
+}
+
+h3{
+    color:#ccc;
+}
+
+#app{
+    color:green;
+}
